@@ -1,0 +1,8 @@
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\bin\Debug\GameLoop_GageMcKenzie.exe.config
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\bin\Debug\GameLoop_GageMcKenzie.exe
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\bin\Debug\GameLoop_GageMcKenzie.pdb
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\obj\Debug\GameLoop_GageMcKenzie.csproj.AssemblyReference.cache
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\obj\Debug\GameLoop_GageMcKenzie.csproj.CoreCompileInputs.cache
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\obj\Debug\GameLoop_GageMcKenzie.exe
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\obj\Debug\GameLoop_GageMcKenzie.pdb
+C:\Users\w0526843\GameLoop_GageMcKenzie\GameLoop_GageMcKenzie\obj\Debug\GameLoop_GageMcKenzie.exe.config
