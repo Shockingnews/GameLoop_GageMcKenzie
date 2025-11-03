@@ -119,16 +119,16 @@ namespace GameLoop_GageMcKenzie
 
         static void sharkmovement()
         {
-            sharkYPos = 4;
+            sharkYPos = 4;/// find a work around this is the problem
             sharkYPos = 4;
 
-            if(sharkYPos < yPos)
-            {
-                sharkYPos += 1;
-            }
             if (sharkYPos > yPos)
             {
                 sharkYPos -= 1;
+            }
+            if (sharkYPos < yPos)
+            {
+                sharkYPos += 1;
             }
             if (sharkXPos > xPos)
             {
